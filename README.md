@@ -1,3 +1,6 @@
+Vercel Link
+https://alt-school-3rd-exams-23aoo1rdo-david-ottache.vercel.app/counter
+
 # counter-app
 
 ## Project setup
